@@ -1,0 +1,3 @@
+name: n8n
+runtime: nodejs
+description: Minimal n8n stack
